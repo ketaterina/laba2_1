@@ -1,0 +1,9 @@
+C:\Users\Kate\Desktop\лабы 3 сем\2.1\laba2_1\bin\Debug\laba2_1.exe.config
+C:\Users\Kate\Desktop\лабы 3 сем\2.1\laba2_1\bin\Debug\laba2_1.exe
+C:\Users\Kate\Desktop\лабы 3 сем\2.1\laba2_1\bin\Debug\laba2_1.pdb
+C:\Users\Kate\Desktop\лабы 3 сем\2.1\laba2_1\obj\Debug\laba2_1.csprojAssemblyReference.cache
+C:\Users\Kate\Desktop\лабы 3 сем\2.1\laba2_1\obj\Debug\laba2_1.csproj.CoreCompileInputs.cache
+C:\Users\Kate\Desktop\лабы 3 сем\2.1\laba2_1\obj\Debug\laba2_1.exe
+C:\Users\Kate\Desktop\лабы 3 сем\2.1\laba2_1\obj\Debug\laba2_1.pdb
+C:\Users\Kate\Desktop\лабы 3 сем\2.1\laba2_1\obj\Debug\laba2_1.Graph.resources
+C:\Users\Kate\Desktop\лабы 3 сем\2.1\laba2_1\obj\Debug\laba2_1.csproj.GenerateResource.cache
